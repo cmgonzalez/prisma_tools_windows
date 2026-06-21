@@ -17,6 +17,7 @@ Colección de herramientas y utilidades para Windows utilizadas en el desarrollo
 | `ayfxedit.zip` | Editor de efectos de sonido para el chip AY-3-8912 |
 | `Steve Turner SFX Editor.zip` | Editor de efectos de sonido de Steve Turner |
 | `VT1.0-64.zip` | Vortex Tracker - Editor de música para chip AY |
+| `pasmo-0.5.5.tar.gz` | Ensamblador Z80 Pasmo (fuente oficial) - compila el motor Nirvana+ |
 
 ## Uso
 
